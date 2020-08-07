@@ -1,0 +1,9 @@
+{
+    "routes": [
+        {
+            "route": "/redirectToAboutPage",
+            "serve": "/about",
+            "statusCode": 301
+        }
+    ]
+}
