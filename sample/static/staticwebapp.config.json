@@ -2,7 +2,7 @@
     "routes": [
         {
             "route": "/redirectToAboutPage",
-            "serve": "/about",
+            "redirect": "/about",
             "statusCode": 301
         }
     ]
